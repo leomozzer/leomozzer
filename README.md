@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **React, AWS, nodejs and UiPath**
+- 🌱 I’m currently learning **React, AWS, NodeJS and UiPath**
 
-- 💬 Ask me about **React, chatbots, nodejs**
+- 💬 Ask me about **chatbots, NodeJS and AWS**
+
+- 🤖 Chatbots platforms **Blip, DialogFlow and IBM Watson**
 
 - 📫 How to reach me **mozzer.ferraz@gmail.com**
+
+- 👨‍💻 All of my projects are available at [http://bit.ly/2VoOqzs](http://bit.ly/2VoOqzs)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
