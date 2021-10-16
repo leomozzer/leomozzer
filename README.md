@@ -19,4 +19,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomozzer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
