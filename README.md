@@ -19,10 +19,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[<code>
+
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
