@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [http://bit.ly/2VoOqzs](http://bit.ly/2VoOqzs)
 
 <h3 align="left">Certifications:</h3>
+
 - AWS Certified Developer - Associate
 
 <p align="left">
