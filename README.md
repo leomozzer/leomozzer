@@ -21,8 +21,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" /> </a>
+  <a href="https://www.python.org/" target="_blank"> <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" /> </a>
+  <a href="http://nodejs.org/" target="_blank"> <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"></a>
+  <a href="https://www.serverless.com//" target="_blank"> <img alt="serverless" width="26px" src="https://assets-global.website-files.com/60acbb950c4d6606963e1fed/60acbb950c4d66854e3e2013_logo%20serverless%20dark.svg"></a>
+  <a href="https://github.com/" target="_blank"> <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img alt="aws" width="26px" src="https://img.icons8.com/windows/32/000000/amazon-web-services.png"></a>
+  <a href="https://portal.azure.com/" target="_blank"> <img alt="azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png"></a>
 </p>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
