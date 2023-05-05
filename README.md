@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **mozzer.ferraz@gmail.com**
 
-- 👨‍💻 Most of my project are <a href="https://github.com/leomozzer?tab=repositories" target="blank">here</a>
+- 👨‍💻 Most of my project are <a href="https://github.com/leomozzer?tab=repositories" target="blank">here</a> and the ones that I'm currently working are:
+  - [policy-as-code](https://github.com/leomozzer/policy-as-code)
+    - Combining Terraform and Azure Policies to understand how the concept of policy as code can be applicable to a tenant
+  - [nodejs-chat-orchestrator](https://github.com/leomozzer/nodejs-chat-orchestrator)
+    - Using NestJS to create a chat orcherstrator. The app is using TypeOrm to handle with the MySql connection and the deployment was performed on Azure side using Azure DevOps
 
 <h3 align="left">Certifications:</h3>
 
