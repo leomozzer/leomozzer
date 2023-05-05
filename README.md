@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **React, AWS, NodeJS and UiPath**
+- 🌱 I’m currently learning **Azure, DevOps and Terraform**
 
-- 💬 Ask me about **chatbots, NodeJS and AWS**
+- 💻 DevOps platforms **Azure DevOps and GitHub Actions**
+
+- 💬 Ask me about **Chatbots and NodeJS**
 
 - 🤖 Chatbots platforms **Blip, DialogFlow and IBM Watson**
 
 - 📫 How to reach me **mozzer.ferraz@gmail.com**
 
-- 👨‍💻 All of my projects are available at [http://bit.ly/2VoOqzs](http://bit.ly/2VoOqzs)
+- 👨‍💻 Most of my project are <a href="https://github.com/leomozzer?tab=repositories" target="blank">here</a>
 
 <h3 align="left">Certifications:</h3>
 
 - AWS Certified Developer - Associate
+- Azure Administrator Associate
+- Microsoft DevOps Engineer
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -32,4 +36,5 @@
   <a href="https://github.com/" target="_blank"> <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></a>
   <a href="https://aws.amazon.com/" target="_blank"> <img alt="aws" width="26px" src="https://img.icons8.com/windows/32/000000/amazon-web-services.png"></a>
   <a href="https://portal.azure.com/" target="_blank"> <img alt="azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png"></a>
+  <a href="https://www.terraform.io/" target="_blank"> <img alt="terraform" width="26px" src="https://img.icons8.com/color/240/000000/terraform.png"></a>
 </p>
