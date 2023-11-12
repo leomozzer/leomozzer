@@ -16,12 +16,15 @@
     - Combining Terraform and Azure Policies to understand how the concept of policy as code can be applicable to a tenant
   - [nodejs-chat-orchestrator](https://github.com/leomozzer/nodejs-chat-orchestrator)
     - Using NestJS to create a chat orcherstrator. The app is using TypeOrm to handle with the MySql connection and the deployment was performed on Azure side using Azure DevOps
+  - [nestjs-mysql-aks](https://github.com/leomozzer/nestjs-mysql-aks)
+    - Deploying a NestJS app in an AKS. The CI/CD part is handled by Github Actions
 
 <h3 align="left">Certifications:</h3>
 
 - AWS Certified Developer - Associate
-- Azure Administrator Associate
-- Microsoft DevOps Engineer
+- AZ-104 Azure Administrator Associate
+- AZ-400 Azure DevOps Engineer
+- AZ-305 Azure Solutions Architect
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
